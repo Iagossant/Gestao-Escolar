@@ -1,0 +1,14 @@
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\Gestao Escolar.GeneratedMSBuildEditorConfig.editorconfig
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\Gestao Escolar.AssemblyInfoInputs.cache
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\Gestao Escolar.AssemblyInfo.cs
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\Gestao Escolar.csproj.CoreCompileInputs.cache
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\bin\Debug\net8.0\Gestao Escolar.exe
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\bin\Debug\net8.0\Gestao Escolar.deps.json
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\bin\Debug\net8.0\Gestao Escolar.runtimeconfig.json
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\bin\Debug\net8.0\Gestao Escolar.dll
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\bin\Debug\net8.0\Gestao Escolar.pdb
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\Gestao Escolar.dll
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\refint\Gestao Escolar.dll
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\Gestao Escolar.pdb
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\Gestao Escolar.genruntimeconfig.cache
+\\INFO\Informática\Turma 09\Iago\Programas\Gestao Escolar\Gestao Escolar\obj\Debug\net8.0\ref\Gestao Escolar.dll
